@@ -12,7 +12,10 @@ venv/
 .envrc
 pip-log.txt
 pip-delete-this-directory.txt
-.env
+venv/
+.env/
+.envrc
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
