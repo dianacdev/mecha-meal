@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.envrc
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging
+logs/
+*.log
+debug.log
+
+# Dataset and model files
+data/
+*.csv
+*.json
+*.tsv
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.tar
+*.zip
+*.gz
+*.sqlite
+
+# Machine learning model files
+models/
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+*.ckpt
+*.hdf5
+
+# TensorBoard logs
+logs/
+tensorboard/
+events.out.tfevents.*
+
+# PyTorch Lightning
+lightning_logs/
+
+# Cached files
+*.cache
+*.pkl
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+*.iml
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+*.swo
+*.swn
